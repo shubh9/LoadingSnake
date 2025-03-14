@@ -192,7 +192,7 @@ const LoadingSnakes: React.FC = () => {
     return getSavedDotCount();
   });
 
-  const directionRef = useRef<Position>({ x: -1, y: 0 });
+  const directionRef = useRef<Position>({ x: 1, y: 0 });
   const [hasGameStarted, setHasGameStarted] = useState(false);
   const [isDying, setIsDying] = useState(false);
   const [targetPosition, setTargetPosition] = useState<TargetPosition | null>(
