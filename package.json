@@ -23,7 +23,7 @@
     "component",
     "ui"
   ],
-  "author": "",
+  "author": "Shubh Mittal",
   "license": "MIT",
   "peerDependencies": {
     "react": ">=16.8",
