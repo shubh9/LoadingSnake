@@ -1,6 +1,6 @@
 {
   "name": "loading-snakes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Three loading dots that turn into a snake game - The elevator music of chatbots",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
